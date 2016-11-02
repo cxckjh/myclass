@@ -8,9 +8,9 @@
 		"type":"git",
 		"url":"https://github.com/cxckjh/myclass"
 	},
-	"keywords" : {
-	"censor":"words"
-},
+	"keywords" : [
+	"censor","words"
+],
 	"dependencies" : {},
 	"engines" : {
 		"node" : "*"
