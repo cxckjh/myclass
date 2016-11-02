@@ -7,10 +7,10 @@
 	"repository":{
 		"type":"git",
 		"url":"https://github.com/cxckjh/myclass"
-	}
+	},
 	"keywords" : {
 	"censor":"words"
-}
+},
 	"dependencies" : {},
 	"engines" : {
 		"node" : "*"
