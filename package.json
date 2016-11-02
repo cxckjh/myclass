@@ -1,0 +1,18 @@
+{
+	"author" : "cxckjh",
+	"name" : "cxck",
+	"version" : "0.1.1",
+	"description" : "审查文档中的敏感关键词",
+	"main" : "cxckjh123",
+	"repository":{
+		"type":"git",
+		"url":"https://github.com/cxckjh/h51614"
+	}
+	"keywords" : {
+	"censor":"words"
+}
+	"dependencies" : {},
+	"engines" : {
+		"node" : "*"
+	}
+}
